@@ -1,12 +1,12 @@
 
-# Enhanced Pneumonia Detection Using CUDA-Optimized CNNs
+# Enhanced Pneumonia Detection Using CUDA-Optimized SNNs
 
-This repository contains the implementation of a novel medical image analysis framework designed for fast and accurate pneumonia detection from chest X-ray images. The project leverages CUDA-optimized Convolutional Neural Networks (CNNs) to enhance computational capabilities, enabling real-time analysis.
+This repository contains the implementation of a novel medical image analysis framework designed for fast and accurate pneumonia detection from chest X-ray images. The project leverages CUDA-optimized Convolutional Neural Networks (SNNs) to enhance computational capabilities, enabling real-time analysis.
 
 ## Features
 
 - **CUDA Optimization**: Utilizes NVIDIA CUDA to accelerate deep learning model training and inference.
-- **CNN Architecture**: Custom-designed CNN architecture tailored for pneumonia detection.
+- **SNN Architecture**: Custom-designed SNN architecture tailored for pneumonia detection.
 - **Data Preprocessing**: Techniques for preparing chest X-ray images for model training.
 - **Performance Evaluation**: Comprehensive evaluation metrics and visualizations to assess model performance.
 - **Thesis Documentation**: Detailed explanation of the methodology and findings in the included thesis PDF.
